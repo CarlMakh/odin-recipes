@@ -1,0 +1,29 @@
+.home-title {
+    text-align: center;
+    font-size: 2em;
+    margin: auto;
+    font-family: 'Verdana', sans-serif;
+    font-weight: normal;
+    background-color: rgb(79, 134, 134);
+    color: white;
+    border: 5px gray solid;
+    padding: 8px;
+    border-radius: 18px;
+    width: 300px;
+    height: 40px;
+    margin-top: 25px;
+}
+
+.lasagna-link,
+.fried-chicken-link {
+    font-size: larger;
+    font-family: 'Verdana', sans-serif;
+    a:visited {
+        color: black;
+    }
+}
+
+.lasagna-link {
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
